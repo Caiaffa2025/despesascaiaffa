@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Gastos Casa e Pessoal",
+  "description": "Aplicativo simples para controle de despesas de casa e pessoais, com categorias customizáveis e cálculos automáticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
